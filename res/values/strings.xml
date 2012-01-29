@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Basic Fragment Tutorial</string>
+    <string name="btn_fragment">I\'m a Fragment!</string>
+    <string name="toast_you_just_clicked_a_fragment">You just clicked a Fragment!</string>
+
+</resources>
